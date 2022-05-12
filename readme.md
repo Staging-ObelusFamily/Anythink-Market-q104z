@@ -10,4 +10,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-** Run docker using docker-compose up
+** Run docker using docker-compose up a
